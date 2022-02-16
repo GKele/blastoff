@@ -1,0 +1,16 @@
+C:\Users\GeKel\Desktop\BLASTOFF\blastoff\exercicio10\bin\Debug\net5.0\exercicio10.exe
+C:\Users\GeKel\Desktop\BLASTOFF\blastoff\exercicio10\bin\Debug\net5.0\exercicio10.deps.json
+C:\Users\GeKel\Desktop\BLASTOFF\blastoff\exercicio10\bin\Debug\net5.0\exercicio10.runtimeconfig.json
+C:\Users\GeKel\Desktop\BLASTOFF\blastoff\exercicio10\bin\Debug\net5.0\exercicio10.runtimeconfig.dev.json
+C:\Users\GeKel\Desktop\BLASTOFF\blastoff\exercicio10\bin\Debug\net5.0\exercicio10.dll
+C:\Users\GeKel\Desktop\BLASTOFF\blastoff\exercicio10\bin\Debug\net5.0\ref\exercicio10.dll
+C:\Users\GeKel\Desktop\BLASTOFF\blastoff\exercicio10\bin\Debug\net5.0\exercicio10.pdb
+C:\Users\GeKel\Desktop\BLASTOFF\blastoff\exercicio10\obj\Debug\net5.0\exercicio10.csproj.AssemblyReference.cache
+C:\Users\GeKel\Desktop\BLASTOFF\blastoff\exercicio10\obj\Debug\net5.0\exercicio10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GeKel\Desktop\BLASTOFF\blastoff\exercicio10\obj\Debug\net5.0\exercicio10.AssemblyInfoInputs.cache
+C:\Users\GeKel\Desktop\BLASTOFF\blastoff\exercicio10\obj\Debug\net5.0\exercicio10.AssemblyInfo.cs
+C:\Users\GeKel\Desktop\BLASTOFF\blastoff\exercicio10\obj\Debug\net5.0\exercicio10.csproj.CoreCompileInputs.cache
+C:\Users\GeKel\Desktop\BLASTOFF\blastoff\exercicio10\obj\Debug\net5.0\exercicio10.dll
+C:\Users\GeKel\Desktop\BLASTOFF\blastoff\exercicio10\obj\Debug\net5.0\ref\exercicio10.dll
+C:\Users\GeKel\Desktop\BLASTOFF\blastoff\exercicio10\obj\Debug\net5.0\exercicio10.pdb
+C:\Users\GeKel\Desktop\BLASTOFF\blastoff\exercicio10\obj\Debug\net5.0\exercicio10.genruntimeconfig.cache
