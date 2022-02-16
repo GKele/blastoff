@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hQMOGJxa/btPyyx1VaQLUEoszFXtGzx1f2RFRb9w5gOzMXnH763+oFs+WLZai2Ow6dlYVAN/WXHXE8zMwbLP+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\GeKel\\Desktop\\BLASTOFF\\exercicio01\\exercicio01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GeKel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
